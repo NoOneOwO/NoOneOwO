@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Mohd%20Taiyab%20Jazim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Game%20Dev%20%7C%20Unreal%20Engine%20%7C%20Flutter&descAlignY=55&descSize=18" />
-</h1>
+<p align="center">
+  <img src="banner.svg" alt="Taiyab aka Noone banner" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Building+apps+and+games+that+probably+shouldn't+exist...;Starting+too+many+projects%2C+finishing+a+few...;Debugging+skills%3A+production-ready;Social+skills%3A+still+compiling..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Turning+2AM+ideas+into+shipped+code;Currently+building+worlds+in+Unreal+Engine;Flutter+by+day%2C+game+dev+by+night;Debugging+skills%3A+production+ready" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
