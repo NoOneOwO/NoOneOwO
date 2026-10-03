@@ -37,7 +37,7 @@ A very questionable indie game developer building apps and games that probably s
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA1Y2UzcG1iaWd2cW92M3Ewc3Y4Z25zcWxtZHRwaXhhNHZtMW43ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YgCpwmlgoJxbDTVdzy/giphy.gif" width="100%" alt="Game Boy GIF" />
+<img src="hero.gif" width="100%" alt="Game Boy GIF" />
 
 </td>
 </tr>
