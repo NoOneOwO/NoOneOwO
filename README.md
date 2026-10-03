@@ -37,10 +37,7 @@ A very questionable indie game developer building apps and games that probably s
 </td>
 <td width="40%" align="center" valign="middle">
 
-<!-- Replace with your own clip: a short GIF of something you built beats any stock GIF -->
-<img src="assets/gameplay.gif" width="100%" alt="Gameplay clip" />
-
-<sub>🕹️ <i>my game, my bugs, my problem</i></sub>
+<img src="https://media.giphy.com/media/YgCpwmlgoJxbDTVdzy/giphy.gif" width="100%" alt="Game Boy GIF" />
 
 </td>
 </tr>
